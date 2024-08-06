@@ -1,0 +1,17 @@
+.sty{
+    width: 800px;
+    height: 430px;
+    /* padding: 20px; */
+    box-shadow: 0 0 10px purple;
+    margin: 50px auto;
+    display: flex;
+}
+.column1 {
+    /* float: left; */
+    width: 35%;
+  }
+  .column2 {
+    /* float: left; */
+    width: 65%;
+    padding: 30px;
+  }
